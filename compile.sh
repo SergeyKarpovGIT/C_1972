@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-gcc14 hello.c -o /var/tmp/a.out
+gcc14 -Wall -o /var/tmp/program.out /home/slider/c_language/source.c
